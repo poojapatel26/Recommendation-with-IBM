@@ -3,14 +3,12 @@
 ## Project Motivation
 The aim of this project is to analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations of new articles they might like to them.
 
-## Dependencies
+### Dependencies
 This project requires Python 3.x and the following Python libraries installed:
 
-  • [NumPy](http://www.numpy.org/)
-  
-  • [Pandas](http://pandas.pydata.org/)
-  
-  • [matplotlib](https://matplotlib.org/)
+* [NumPy](http://www.numpy.org/) 
+* [Pandas](http://pandas.pydata.org/)
+* [matplotlib](https://matplotlib.org/)
 
 ## Files
  ```Recommendations_with_IBM.ipynb``` : It describe the steps performed for recommending articles to users.

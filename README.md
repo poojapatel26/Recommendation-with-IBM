@@ -7,7 +7,9 @@ The aim of this project is to analyze the interactions that users have with arti
 This project requires Python 3.x and the following Python libraries installed:
 
  • [NumPy](http://www.numpy.org/)
+ 
  • [Pandas](http://pandas.pydata.org/)
+ 
  • [matplotlib](https://matplotlib.org/)
 
 ## Files

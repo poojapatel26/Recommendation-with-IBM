@@ -5,17 +5,14 @@ The aim of this project is to analyze the interactions that users have with arti
 
 ## Dependencies
 This project requires Python 3.x and the following Python libraries installed:
-
- • [NumPy](http://www.numpy.org/)
- 
- • [Pandas](http://pandas.pydata.org/)
- 
- • [matplotlib](https://matplotlib.org/)
+  • [NumPy](http://www.numpy.org/)
+  • [Pandas](http://pandas.pydata.org/)
+  • [matplotlib](https://matplotlib.org/)
 
 ## Files
- • ```Recommendations_with_IBM.ipynb``` : It describe the steps performed for recommending articles to users.
+ ```Recommendations_with_IBM.ipynb``` : It describe the steps performed for recommending articles to users.
  
- • ```Recommendations_with_IBM.html```  : As the same of above notebook but format is html.
+ ```Recommendations_with_IBM.html```  : As the same of above notebook but format is html.
 
 ## Licensing, Authors, Acknowledgements
 
